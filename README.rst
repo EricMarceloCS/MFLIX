@@ -1,3 +1,18 @@
+=====
+MFLIX
+=====
+
+My personal build of the MFLIX Application from MongoDB University's M220J Course for 
+intermediate level Java developers
+
+* Advanced java Programming
+* Java 8
+* MongoDB Atlas
+* MongoDB Compass
+
+Note: Database Credentials Have Been Removed
+
+
 ================
 Welcome to M220J
 ================
