@@ -5,6 +5,7 @@ MFLIX
 My personal build of the MFLIX Application from MongoDB University's M220J Course for 
 intermediate level Java developers
 
+* Spring Tool Suite
 * Advanced java Programming
 * Java 8
 * MongoDB Atlas
